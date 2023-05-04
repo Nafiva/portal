@@ -1,10 +1,10 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color:rgb(205, 233, 157);
+    font-family: 'Playfair Display', serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -17,8 +17,12 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #c1f0be; 
     line-height: 2.5em;
+}
+
+h1.page-header{
+    font-family: 'Playfair Display', serif;
 }
 
 main.wrapper {
@@ -43,7 +47,7 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(154, 206, 138);
     text-decoration: none;
 }
 
