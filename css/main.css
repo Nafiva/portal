@@ -15,7 +15,9 @@ html {
 }
 
 h1 {
-    font-weight: normal;
+    text-align: center;
+    font-size: 44px;
+    color: rgb(59, 116, 59);
     margin: auto;
     background: #c1f0be; 
     line-height: 2.5em;

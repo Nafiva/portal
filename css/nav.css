@@ -24,6 +24,8 @@
     display: none;
 }
 
+
+
 /* Responsive rules - apply when screen width is less than 1200px */
 
 @media screen and (max-width: 1199px) {
